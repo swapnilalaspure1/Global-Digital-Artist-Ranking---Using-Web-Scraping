@@ -1,14 +1,16 @@
-Global Digital Artist Ranking 🎶📊
+# Global Digital Artist Ranking 🎶📊
+
 This project focuses on scraping and analyzing music artist rankings from KWORB.NET/iTunes, providing insights into the top-performing artists across various music platforms. The goal is to identify the leading artists and visualize the data using an interactive Power BI dashboard.
 
-🚀 Project Objective
+## 🚀 Project Objective
 To scrape and analyze music artist rankings from KWORB.NET/iTunes, and visually represent the data to identify the top artists across platforms like Apple Music, Spotify, iTunes, YouTube, Shazam, and Deezer.
 
-🔧 Technologies Used
+## 🔧 Technologies Used
 Python: Beautiful Soup, Requests, Pandas
 Excel: For storing and exporting the scraped data
 Power BI: For building interactive dashboards to visualize the insights
-📑 Process Overview
+
+## 📑 Process Overview
 Data Scraping:
 
 Scraped the rankings of 300 artists from KWORB.NET/iTunes using Beautiful Soup and Requests.
